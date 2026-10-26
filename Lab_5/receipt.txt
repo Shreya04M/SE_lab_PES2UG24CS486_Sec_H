@@ -1,0 +1,1 @@
+{'ITEM1': {'name': 'Wireless Mouse', 'price': 25.0, 'qty': 2}, 'ITEM3': {'name': 'USB-C Hub', 'price': 45.0, 'qty': 3}, 'ITEM4': {'name': 'Monitor Stand', 'price': 35.0, 'qty': 1}}
